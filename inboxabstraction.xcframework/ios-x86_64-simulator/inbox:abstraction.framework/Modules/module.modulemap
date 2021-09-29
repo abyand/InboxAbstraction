@@ -1,0 +1,6 @@
+framework module inbox:abstraction {
+    umbrella header "inbox:abstraction.h"
+
+    export *
+    module * { export * }
+}
